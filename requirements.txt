@@ -1,0 +1,9 @@
+gunicorn==19.9.0
+Flask==1.0.2
+requests==2.11.1
+requests-toolbelt==0.7.0
+beautifulsoup4==4.8.0
+APScheduler==3.0.0
+psycopg2==2.8.5
+psycopg2_binary==2.8.5
+
